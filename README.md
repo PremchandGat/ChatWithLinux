@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Images
 <img src="photo_2021-01-07_15-11-43.jpg" ></img>
-<img src="photo_2021-01-07_15-11-34.jpg" ></img>
+<img src="photo_2021-01-07_15-13-34.jpg" ></img>
